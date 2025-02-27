@@ -44,7 +44,7 @@ Welcome to my Algorithm and Programming 2 repository! This space contains my jou
 ## 🗂️ Repository Structure
 
 ```bash
-📦 Algoritma Pemrograman 2 -Repository
+📦 ALPRO2-Repository
  ┣ 📂 Assignments
  ┃ ┗ 📝 Weekly Tasks
  ┣ 📂 Projects
