@@ -3,7 +3,7 @@
   <p><i>Repository for Academic Excellence</i></p>
   
   ![Telkom University](https://img.shields.io/badge/Telkom-University-red)
-  ![Course](https://img.shields.io/badge/Course-AlgoPro2-blue)
+  ![Course](https://img.shields.io/badge/Course-Algoritma-Pemrograman-2-blue)
   ![Class](https://img.shields.io/badge/Class-IF--12--01-green)
 </div>
 
@@ -44,7 +44,7 @@ Welcome to my Algorithm and Programming 2 repository! This space contains my jou
 ## 🗂️ Repository Structure
 
 ```bash
-📦 AlgoPro2-Repository
+📦 Algoritma Pemrograman 2 -Repository
  ┣ 📂 Assignments
  ┃ ┗ 📝 Weekly Tasks
  ┣ 📂 Projects
